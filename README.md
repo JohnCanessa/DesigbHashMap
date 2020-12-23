@@ -8,7 +8,7 @@ Decided to implement the simplest pass first.
 If you are interested in my approach and reasoning please visit
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/24/design-hashmap/
 
 Keep on reading and experimenting.
 It is the best way to learn.
