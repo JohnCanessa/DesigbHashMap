@@ -1,4 +1,4 @@
-# DesigbHashMap
+# DesignHashMap
 LeetCode 706. Design HashMap in Java - First approach
 https://leetcode.com/problems/design-hashmap/
 
